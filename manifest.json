@@ -1,0 +1,9 @@
+{
+  "name": "Max Bag Capacity",
+  "id": "max_bag_capacity",
+  "version": "1.0.0",
+  "author": "Hunter",
+  "description": "Increases bag capacity and max item stacks to 999.",
+  "entry": "main.lua",
+  "dependencies": []
+}
