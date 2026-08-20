@@ -12,6 +12,6 @@ A lightweight mod for **Gen2Recomp** (Pokémon Gold, Silver, and Crystal decompi
 
 ## Installation
 
-1. Go to the Releases page and download the latest Max_bag_capacity_gen2.zip under Assets.
-2. Place the .zip file into your Gen2Recomp mods directory.
-3. Launch Gen2Recomp and ensure the mod is enabled in the mod manager.
+1. Go to the [Releases](https://github.com/hunter6571/max_bag_capacity_gen2/releases) page and download the latest `Max_bag_capacity_gen2.zip` under **Assets**.
+2. Place the `.zip` file into your **Gen2Recomp** `mods` directory.
+3. Launch **Gen2Recomp** and ensure the mod is enabled in the mod manager.
