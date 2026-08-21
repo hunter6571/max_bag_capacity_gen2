@@ -4,7 +4,7 @@ A lightweight mod for **Gen2Recomp** (Pokémon Gold, Silver, and Crystal decompi
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Expanded Stack Limits:** Carry up to **999** of any stackable item (bypasses the vanilla 99 cap).
 - **Expanded Pocket Slots:** Increases total capacity per pocket (Items, Balls, Key Items) to **999 unique slots** (bypasses the vanilla 20-slot limit).
